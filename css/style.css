@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Open+Sans&display=swap');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteudo__titulo{
+    border-bottom: solid black;
+    width: 150px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.cabecalho{
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.professor{
+    border: solid 2px gray;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0px 35px 80px rgba(0,0,0,0.15);
+    background-image: linear-gradient(to bottom right, #FFEDEA, white);;
+}
+
+.professor img{
+    border: solid 3px white;
+    padding: 3px;
+    position: relative;
+    top: 50px;
+    border-radius: 50px;
+}
+
+.professor .conteudo{
+    padding: 40px;
+    height: 500px;
+    
+}
+
+.texto{
+    position: relative;
+    top: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.texto h1{
+    position: relative;
+    top: 50px;
+    font-size: 30px;
+}
+
+.baixo{
+    position: relative;
+    top: 150px;
+}
+
