@@ -1,3 +1,4 @@
-22.00077-0, Cyro Conde
-21.00740-3, Joao Marques
-21.01511-2, Wagner Silva Filho
+# T1 2º SEMESTRE FRONT END
+Cyro Conde RA: 22.00077-0 <br>
+Joao Marques RA: 21.00740-3 <br>
+Wagner Silva Filho RA: 21.01511-2
